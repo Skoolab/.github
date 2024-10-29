@@ -10,40 +10,53 @@ O repositório .github é um repositório especial que pode ser criado em uma or
 
 1. Templates de Issues e Pull Requests:
 
-  Você pode criar templates de issues e pull requests que serão aplicados automaticamente a todos os repositórios da organização. Isso ajuda a padronizar a forma como os colaboradores reportam problemas ou sugerem mudanças.
-  Arquivos típicos:
-  .github/ISSUE_TEMPLATE.md
-  .github/PULL_REQUEST_TEMPLATE.md
+    Você pode criar templates de issues e pull requests que serão aplicados automaticamente a todos os repositórios da organização. Isso ajuda a padronizar a forma como os colaboradores reportam problemas ou sugerem mudanças.
+    Arquivos típicos:
+    .github/ISSUE_TEMPLATE.md
+    .github/PULL_REQUEST_TEMPLATE.md
 
 2. GitHub Actions Workflows:
 
-  O repositório .github pode conter workflows do GitHub Actions que podem ser reutilizados em outros repositórios da organização. Isso facilita a automação de tarefas como testes, deploys e integrações contínuas.
-  Arquivo típico:
-  .github/workflows/<workflow>.yml
+    O repositório .github pode conter workflows do GitHub Actions que podem ser reutilizados em outros repositórios da organização. Isso facilita a automação de tarefas como testes, deploys e integrações contínuas.
+    Arquivo típico:
+    .github/workflows/<workflow>.yml
 
 3. CODEOWNERS:
 
-  O arquivo CODEOWNERS pode ser usado para definir quem é responsável por revisar mudanças em partes específicas do código em todos os repositórios da organização.
-  Arquivo típico:
-  .github/CODEOWNERS
+    O arquivo CODEOWNERS pode ser usado para definir quem é responsável por revisar mudanças em partes específicas do código em todos os repositórios da organização.
+    Arquivo típico:
+    .github/CODEOWNERS
 
 4. SECURITY.md:
 
-  O arquivo SECURITY.md pode ser usado para documentar as políticas de segurança da organização, como o processo de reportar vulnerabilidades.
-  Arquivo típico:
-  .github/SECURITY.md
+    O arquivo SECURITY.md pode ser usado para documentar as políticas de segurança da organização, como o processo de reportar vulnerabilidades.
+    Arquivo típico:
+    .github/SECURITY.md
 
 5. FUNDING.yml:
 
-  O arquivo FUNDING.yml permite que você configure links para plataformas de financiamento, como GitHub Sponsors, para todos os repositórios da organização.
-  Arquivo típico:
-  .github/FUNDING.yml
+    O arquivo FUNDING.yml permite que você configure links para plataformas de financiamento, como GitHub Sponsors, para todos os repositórios da organização.
+    Arquivo típico:
+    .github/FUNDING.yml
 
 6. Dependabot:
 
-  Arquivos de configuração do Dependabot podem ser armazenados no repositório .github para gerenciar automaticamente as dependências de todos os repositórios da organização.
-  Arquivo típico:
-  .github/dependabot.yml
+    Arquivos de configuração do Dependabot podem ser armazenados no repositório .github para gerenciar automaticamente as dependências de todos os repositórios da organização.
+    Arquivo típico:
+    .github/dependabot.yml
+
+7. Pasta profile:
+
+    - README.md:
+  
+      O arquivo README.md dentro da pasta profile é exibido na página inicial da organização. Ele pode conter informações sobre a organização, como:
+      Descrição da organização.
+      Projetos principais.
+      Links para documentação, sites ou redes sociais.
+      Qualquer outra informação relevante para os visitantes da página da organização.
+      Personalização da página da organização:
+  
+    - O conteúdo do README.md pode ser formatado usando Markdown, permitindo que você adicione títulos, listas, imagens, links, etc., para criar uma página de perfil atraente e informativa.
 
 ### Benefícios de usar um repositório .github para organizações:
 
@@ -61,6 +74,9 @@ O repositório .github é um repositório especial que pode ser criado em uma or
 
 ```
 .github/
+│
+├── profile/
+│   └── README.md
 │
 ├── ISSUE_TEMPLATE/
 │   ├── bug_report.md
