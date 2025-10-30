@@ -1,6 +1,6 @@
 # Bem-vindo à Skoolab 👋
 
-A Skoolab é uma EdTech inovadora que visa transformar o processo educacional para a Geração Z e futuras, oferecendo uma experiência de aprendizado interativa, personalizada e gamificada.
+A Skoolab é um ecossistema de aprendizado que ajuda concurseiros a aprender com mais foco e prazer através da neurociência e do entretenimento gamificado.
 
 <!-- Nossos principais projetos incluem:
 
