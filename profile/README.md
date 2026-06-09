@@ -1,6 +1,12 @@
 # Bem-vindo à Skoolab 👋
 
-A Skoolab é um ecossistema de aprendizado que ajuda concurseiros a aprender com mais foco e prazer através da neurociência e do entretenimento gamificado.
+A Skoolab é um aplicativo brasileiro que transforma conhecimento em uma experiência de jogo, progresso e conquista.
+
+Criada para quem já passa horas na tela, a Skoolab une aprendizado, competição, evolução e recompensas em uma jornada mais leve, viciante e divertida — sem parecer mais uma aula disfarçada.
+
+Aqui, conhecimento vira desafio.  
+Desafio vira progresso.  
+Progresso vira conquista.
 
 <!-- Nossos principais projetos incluem:
 
