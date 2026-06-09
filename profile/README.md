@@ -2,7 +2,7 @@
 
 A Skoolab é um aplicativo brasileiro que transforma conhecimento em uma experiência de jogo, progresso e conquista.
 
-Criada para quem já passa horas na tela, a Skoolab une aprendizado, competição, evolução e recompensas em uma jornada mais leve, viciante e divertida — sem parecer mais uma aula disfarçada.
+Criada para quem já passa horas na tela, a Skoolab une aprendizado, competição, evolução e recompensas em uma jornada mais leve, viciante e divertida, sem parecer mais uma aula disfarçada.
 
 Aqui, conhecimento vira desafio.  
 Desafio vira progresso.  
