@@ -46,6 +46,6 @@ Tem um produto para criar ou evoluir?
 
 ---
 
-<p align="center">
+<p align="center" target="_blank">
   <a href="https://www.skoolab.com.br/">skoolab.com.br</a>
 </p>
