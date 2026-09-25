@@ -1,7 +1,5 @@
 # Bem-vindo à Skoolab 👋
 
-# Skoolab
-
 ### Produtos digitais que fazem sentido na vida real.
 
 A Skoolab é uma desenvolvedora de produtos digitais. Unimos **design, tecnologia e pesquisa** para criar e evoluir produtos que respeitam o tempo das pessoas e fazem sentido no dia a dia.
